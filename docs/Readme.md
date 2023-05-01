@@ -1,5 +1,7 @@
 # Yair Goldshtein
 
+# Courses I teach:
+
 ## Object-oriented programming courses
 * Workshop in C++
 * Mini Project in Windows Systems (C#, WPF)

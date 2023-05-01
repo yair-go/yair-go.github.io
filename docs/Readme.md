@@ -22,3 +22,6 @@
 * Introduction to Software Engineering
 * Mini Project in Database Systems
 
+
+[LinkedIn](https://www.linkedin.com/in/yair-goldshtein/)
+[GitHub](https://github.com/yair-go)
